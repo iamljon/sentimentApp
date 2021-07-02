@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-stockName = st.text_input("Give me a stock name: ", "Stock name here...")
+stockName = st.text_input("Give me a stock name: ")
 
 df = pd.read_csv("eventsWithScores.txt") 
 
