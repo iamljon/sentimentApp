@@ -1,0 +1,782 @@
+,ticker,news,datetime,score
+0,XLE,Crude oil climbs as OPEC+ panel sees rest of year gradual production gains,2021-07-01 12:35:00,-0.3182
+1,HTZZ,Hertz emerges from bankruptcy leaner and with eyes on profits,2021-07-01 11:19:00,0.4404
+2,XLE,"Crude oil, Big Oil names surge as OPEC weighs production increase",2021-07-01 09:25:00,-0.34
+3,XLU,"Energy was the top-performing S&P sector in H1, but here's why there's a need for caution in H2",2021-07-01 09:15:00,0.1406
+4,XRT,Retail sector generates big returns for the first half of the year on re-opening hopes and Reddit buzz,2021-07-01 08:29:00,0.4215
+5,ALL,Allstate stands out in J.P. Morgan's preview of insurance earnings,2021-07-01 08:03:00,0.0
+6,DIA,"Dow Jones, Nasdaq mixed before OPEC meeting and jobless claims",2021-07-01 06:27:00,0.0
+7,FB,Instagram plans some radical changes - 'no longer a photo-sharing app',2021-07-01 04:20:00,0.0
+8,SP500,S&P hits Wall Street’s 2021 target in six months - Is this as good as it gets?,2021-06-30 16:42:00,0.4404
+9,CZR,Nevada casinos top $1B again with record-setting May. tally,2021-06-30 16:14:00,0.2023
+10,ROKU,Roku rises to 3% gain as Apple buys spot on remote control,2021-06-30 14:13:00,0.5267
+11,UDN,U.S. dollar index inches higher in anticipation of Friday’s jobs data,2021-06-30 13:08:00,0.1027
+12,T,"AT&T selling Network Cloud, moving 5G network to Microsoft's Azure for Operators",2021-06-30 10:53:00,0.0
+13,SPY,"Dow Jones, Nasdaq futures dip before end of Q2 and first half",2021-06-30 06:05:00,0.0
+14,AMH,A divided Supreme Court keeps eviction moratorium in place,2021-06-30 04:39:00,0.1531
+15,FB,Facebook's Zuckerberg unveils newsletter-product entry 'Bulletin',2021-06-29 15:01:00,0.0
+16,GM,General Motors and Volkswagen called attractive by UBS while Tesla clipped,2021-06-29 09:13:00,0.4404
+17,BA,"United Airlines orders 200 more Boeing 737 MAX jets, its largest-ever order",2021-06-29 06:35:00,0.4215
+18,DIA,"Dow Jones, Nasdaq waver before consumer confidence figures",2021-06-29 06:15:00,0.5106
+19,GOOG,Alphabet turns negative as DOJ steps up ad-tech antitrust scrutiny,2021-06-28 15:21:00,-0.5719
+20,DIA,"Dow Jones, Nasdaq start the week little changed after records",2021-06-28 06:53:00,0.0
+21,NTLA,Gene editing stocks take off as Intellia development slices through sector,2021-06-28 05:38:00,0.0
+22,SPCE,"Virgin Galactic lights up Reddit, Stocktwits after monster rally",2021-06-26 09:24:00,0.0
+23,XLU,S&P 500’s weekly market breakdown and sector performance,2021-06-25 16:34:00,0.0
+24,SP500,Dow Jones leads the day and week - S&P 500 notches best week since February,2021-06-25 16:07:00,0.6369
+25,VTIP,Bank of America believes inflation will remain higher for up to four years,2021-06-25 09:10:00,0.0
+26,ECONOMY,"Core PCE inflation up 0.5% in May, up 3.4% from a year ago",2021-06-25 08:32:00,0.0
+27,NKE,Nike soars to new high as analysts rave on growth story,2021-06-25 08:18:00,0.3818
+28,SPCE,Virgin Galactic soars after landing approval from FAA for full commercial launch license,2021-06-25 07:00:00,0.4767
+29,DIA,Dow Jones futures boosted by infrastructure bill ahead of inflation report,2021-06-25 06:29:00,0.3612
+30,DTOX,Amplify ETFs launches the first pure-play clean living ETF,2021-06-24 17:04:00,0.4019
+31,NKE,Nike rallies after earnings smasher tamps down concerns on China,2021-06-24 16:31:00,0.0
+32,XTN,These ETFs could be affected as Biden touts agreement on infrastructure plan,2021-06-24 15:20:00,0.3612
+33,TSLA,Tesla expected to open Supercharger network to other automakers,2021-06-24 13:01:00,0.0
+34,TSLA,Electric vehicle stocks rally as Green Tidal Wave hopes are recharged,2021-06-24 08:58:00,0.4215
+35,QQQ,"Nasdaq, Dow Jones higher ahead of jobless claims, bank stress tests and earnings",2021-06-24 06:08:00,-0.4215
+36,CZR,New Las Vegas Strip casino to open tomorrow in splashiest debut in a decade,2021-06-23 13:55:00,0.0
+37,QDF,BlackRock’s Q3 market outlook points to inflation concerns and focuses on quality-based securities,2021-06-23 10:07:00,0.296
+38,ECONOMY,New home sales unexpectedly fell in May. - April's gain revised lower,2021-06-23 10:00:00,0.296
+39,TSLA,Tesla makes energizing move in China with charging station that can store power,2021-06-23 07:00:00,0.4588
+40,QQQ,"Dow Jones, Nasdaq extend gains after Powell message calms investors",2021-06-23 06:50:00,0.6597
+41,ECONOMY,Jerome Powell: Fed won't hike preemptively,2021-06-22 14:48:00,0.0
+42,BTC-USD,Bitcoin goes green on day in major reversal,2021-06-22 12:08:00,0.0
+43,DNUT,Krispy Kreme sets terms for IPO in second run as a public company,2021-06-22 12:06:00,0.0
+44,ECONOMY,Existing home sales dip in May. as median price crosses $350K for first time,2021-06-22 10:01:00,0.0
+45,BTC-USD,Bitcoin crashes through $30K as cryptocurrency selloff picks up steam,2021-06-22 08:23:00,0.0
+46,DIA,"Dow Jones, Nasdaq hold steady before Powell testimony",2021-06-22 07:09:00,0.0
+47,ALK,"Aramark, Harley-Davidson and L Brands among top BofA SMID cap ideas for second half",2021-06-22 07:03:00,0.6739
+48,GOEV,Canoo and Arrival lead down day for electric vehicle stocks,2021-06-21 12:05:00,0.0
+49,BDIY:IND,Shipping rates expected to stay high in potential profit drag for retail,2021-06-21 11:08:00,0.25
+50,UDN,U.S. Dollar Index has its best performing week in over a year,2021-06-21 09:46:00,0.6369
+51,GM,General Motors powers ahead with hydrogen fuel cell plans,2021-06-21 07:13:00,0.0
+52,BTC-USD,Bitcoin stumbles as crypto mining crackdown deepens in China,2021-06-21 06:31:00,0.0
+53,DIA,"Dow Jones, Nasdaq rebound - Credit Suisse says reflation trade intact",2021-06-21 05:11:00,0.5267
+54,AAL,American Airlines cuts flights as travel surge weighs on operations,2021-06-21 04:20:00,-0.296
+55,PSTH,Ackman sheds more details on Pershing Square Tontine's deal for Universal Music,2021-06-21 03:15:00,0.0
+56,XLF,S&P 500’s weekly market breakdown and sector performance,2021-06-18 16:28:00,0.0
+57,BTC-USD,Bitcoin selloff steepens in afternoon action,2021-06-18 15:08:00,0.0
+58,UDN,Here's why the dollar is rising again,2021-06-18 08:53:00,0.0
+59,ECONOMY,"Fed's Jim Bullard: Policy tilted a little more hawkish, sees first rate hike in 2022",2021-06-18 08:33:00,0.0
+60,VLKAF,Volkswagen to use 3D printers to help make future vehicles,2021-06-18 08:10:00,0.4019
+61,QQQ,Nasdaq futures gain as reflation trade takes a backseat,2021-06-18 06:01:00,0.5267
+62,AGNC,Plunging interest rates ding banks and mortgage REITs,2021-06-17 12:57:00,0.4588
+63,ANTM,Supreme Court upholds Affordable Care Act in 7-2 decision (updated),2021-06-17 10:13:00,0.7783
+64,ECONOMY,"Jobless claims snap 9-week decline streak, rising 37K to 412K",2021-06-17 08:30:00,0.0
+65,BGS,Petco and B&G Foods join hot Reddit list even as meme fatigue sets in,2021-06-17 07:44:00,0.0516
+66,DIA,"The morning after: Dow Jones, Nasdaq on the backfoot after Fed Day",2021-06-17 06:11:00,0.0
+67,SPACE,China launches first astronauts to its new space station,2021-06-17 04:14:00,0.0
+68,SP500,"S&P, Dow Jones, Nasdaq off lows as Powell counters hawkish dot plot - yields still jump",2021-06-16 16:02:00,-0.2023
+69,BTC-USD,Bitcoin and gold sink as Fed begins taking inflation seriously,2021-06-16 14:45:00,-0.1779
+70,ECONOMY,Federal Reserve lightens risk from virus on economy - keeps rates near zero,2021-06-16 14:02:00,-0.2732
+71,DKNG,Sports betting revenue forecast to skyrocket as more states approve,2021-06-16 13:42:00,0.0
+72,C,Citigroup supports the largest mutual fund to exchange traded fund conversion,2021-06-16 10:32:00,0.3612
+73,ECONOMY,"May. housing starts come in below consensus, building permits decline",2021-06-16 08:32:00,0.0
+74,FCX,Mining stocks on watch as China to release metal reserves,2021-06-16 07:30:00,0.0
+75,DKNG,"DraftKings stock snapped up by ARK Invest, defended by analysts",2021-06-16 07:01:00,0.0
+76,DIA,"Dow Jones, Nasdaq little changed as Fed wraps up June meeting",2021-06-16 05:54:00,0.0
+77,GM,General Motors tipped by Morgan Stanley for big summer of guidance raises,2021-06-15 16:00:00,0.0
+78,AMZN,Senate confirms sharp critic of Big Tech to FTC seat (updated: Khan named chair),2021-06-15 13:09:00,-0.2732
+79,QQQ,ETF inflows of more than $400 billion this year dwarf 2020 levels,2021-06-15 09:30:00,0.0
+80,ECONOMY,"Producer price index jumps 6.6% Y/Y in May, largest increase since at least 2010",2021-06-15 08:31:00,0.3182
+81,ECONOMY,"Core retails sales disappoint in May, dropping 0.7%",2021-06-15 08:30:00,-0.4019
+82,FCX,Copper sinks to seven-week low as buoyant market turns gloomy,2021-06-15 08:21:00,-0.2023
+83,F,Ford starts delivering long-awaited Bronco model to dealers,2021-06-15 07:42:00,0.0
+84,QQQ,"Nasdaq, Dow Jones extend gains after fresh records on Wall Street",2021-06-15 06:03:00,0.6597
+85,SONY,"Videogame sales resume gains in May, up 3% even against tough comparison",2021-06-14 11:12:00,0.2263
+86,RIDE,What to expect from Lordstown Motors stock? More volatility,2021-06-14 10:47:00,0.0
+87,ECONOMY,Paul Tudor Jones ready to go all-in on inflation trade,2021-06-14 08:26:00,0.3612
+88,RIDE,Lordstown Motors stock down 12% as CEO and CFO exit following board probe,2021-06-14 07:19:00,0.0
+89,DIA,"Dow Jones, Nasdaq start the week with slight gains",2021-06-14 05:53:00,0.2748
+90,ICLN,G7 draws up global green infrastructure plan to counter China,2021-06-13 09:06:00,0.0
+91,SPCE,Blue Origin auctions off seat on first spaceflight for $28M,2021-06-12 13:41:00,0.0
+92,XRT,Consumer discretionary stocks sizzle again as brick-and-mortar recovers,2021-06-12 10:30:00,0.0
+93,SPY,S&P 500’s weekly market breakdown and sector performance,2021-06-11 16:26:00,0.0
+94,GOOGL,Bipartisan group unveils antitrust reform with big tech in crosshairs,2021-06-11 14:56:00,0.0
+95,ESGD,Here's what China thinks is the future of ETF investing,2021-06-11 12:57:00,0.0
+96,TSLA,Tesla draws positive reviews for Model S Plaid event,2021-06-11 09:24:00,0.5574
+97,QQQ,"Nasdaq, Dow Jones edge higher after shaking off inflation fears",2021-06-11 05:06:00,-0.5423
+98,ECONOMY,Inflation nation: Are price pressures here for the long term?,2021-06-11 04:03:00,-0.3182
+99,SPY,SPDR S&P 500 Trust ETF (SPY) climbs to a new record close,2021-06-10 17:01:00,0.5106
+100,SP500,"Nasdaq rallies as yields shrug off inflation - S&P 500 sets record, Dow Jones up",2021-06-10 16:06:00,0.0
+101,F,Electrifying run for Ford continues as eyes turn to SUVs,2021-06-10 12:12:00,0.0
+102,MRNA,"Moderna, BioNTech trade lower as CDC points to heart condition linked to COVID-19 shot (updated)",2021-06-10 11:03:00,0.4588
+103,CLNE,Clean Energy Fuels discloses largest shareholder cut its stake,2021-06-10 10:24:00,0.4019
+104,SP500,"Dow Jones, S&P 500, Nasdaq climb as jobless claims counter hot inflation",2021-06-10 09:40:00,0.0
+105,BTC-USD,"Crypto options trading may find a champion with Hxro, BTIG says: At the Open",2021-06-10 08:58:00,0.5994
+106,ECONOMY,"Inflation rate rises to 5% in May, strongest pace since August 2008",2021-06-10 08:30:00,0.4404
+107,ECONOMY,"Most popular Reddit stocks include Workhorse Group, Wendy's and Virgin Galactic",2021-06-10 08:14:00,0.4754
+108,MGM,JPMorgan turns more constructive on Las Vegas casinos,2021-06-10 07:59:00,0.0
+109,BTC-USD,"Cryptocurrencies rise as regulators propose rules, Coinbase expands borrowing",2021-06-10 07:49:00,0.1027
+110,BRL,JBS Foods confirms it paid cyberattackers $11M in ransom,2021-06-10 07:30:00,0.0
+111,DIA,"Dow Jones, Nasdaq mixed ahead of latest inflation numbers",2021-06-10 05:40:00,0.0
+112,LCP,LCP Group becomes first firm to cancel SPAC IPO since 2019 as ‘SPAC mania’ fades,2021-06-09 17:53:00,-0.25
+113,FB,"Facebook aiming smartwatch at summer 2022 release, with two cameras",2021-06-09 13:36:00,0.0
+114,BMWYY,Electric battery maker Northvolt raises funds as it looks to compete with Tesla,2021-06-09 13:29:00,0.0
+115,BTC-USD,Bitcoin rallies through $36K as China FUD fails today,2021-06-09 12:38:00,-0.6841
+116,FB,Leading Facebook ad executive makes surprising exit - report,2021-06-09 12:31:00,0.2732
+117,SPCE,Billionaire space race: Virgin Galactic's Richard Branson looks to top Blue Origin's Jeff Bezos,2021-06-09 08:36:00,0.2023
+118,CPB,Campbell Soup slumps after warning on inflation and supply chain costs,2021-06-09 07:43:00,-0.34
+119,RIDE,Lordstown Motors sliced up by analysts after financial warning,2021-06-09 07:06:00,-0.34
+120,DIA,"Dow Jones, Nasdaq hold steady as meme mania continues",2021-06-09 06:19:00,0.0
+121,MU,Senate bands together for $250B bill to counter China's rise,2021-06-09 04:15:00,0.0
+122,ECONOMY,Tencent-backed Missfresh files for IPO,2021-06-08 17:01:00,0.0
+123,BTC-USD,Bitcoin and Ethereum cryptocurrencies plunge following FBI seizure,2021-06-08 08:49:00,0.0
+124,WEN,Wendy's soars to all-time high as meme spotlight turns to restaurant stocks,2021-06-08 08:36:00,0.0
+125,F,Ford unveils new hybrid pickup truck priced under $20K,2021-06-08 07:42:00,0.0
+126,DIA,"Dow Jones, Nasdaq muted as traders jump back into meme stocks",2021-06-08 05:43:00,0.0
+127,SPY,SPY witnesses daily trade volumes 54% below its 30-day average,2021-06-07 16:44:00,0.0
+128,BIIB,Biogen stock surges 41% following aducanumab approval,2021-06-07 13:45:00,0.4767
+129,BIIB,Biogen stock to resume trading at 1:30 PM,2021-06-07 13:10:00,0.0
+130,BORGN,Jeff Bezos to fly on first Blue Origin human test flight,2021-06-07 07:08:00,0.0
+131,SPY,"Nasdaq, S&P 500 dip as Yellen says higher rates a 'good thing'",2021-06-07 05:54:00,0.4404
+132,AAPL,Apple WWDC 2021 goes live at 1 p.m. ET. What to expect?,2021-06-07 05:00:00,0.0
+133,ECONOMY,G7 tax deal: There's still a long way to go,2021-06-07 04:01:00,0.0
+134,BTC-USD,El Salvador to make Bitcoin legal tender,2021-06-05 18:48:00,0.128
+135,BTC-USD,Bitcoin's trillion dollar issue: ESG takes stage at Bitcoin 2021 conference,2021-06-05 12:01:00,0.0
+136,SPY,S&P 500’s weekly market breakdown and sector performance,2021-06-04 16:30:00,0.0
+137,ECONOMY,Auto sector ends wild week with Ford riding shotgun with EV high-fliers,2021-06-04 16:15:00,0.0
+138,FB,Facebook says Trump can return to platform in January 2023,2021-06-04 12:46:00,0.0
+139,GME,GameStop meme rally breaks Wall Street model,2021-06-04 09:47:00,0.0
+140,ECONOMY,"May. jobs report comes in on light side, unemployment falls to 5.8%",2021-06-04 08:30:00,-0.4404
+141,F,Ford rallies again after landing Street-high price target from JPMorgan,2021-06-04 07:58:00,0.0
+142,USDU,U.S. Dollar Index rises to a 3-week high,2021-06-04 07:56:00,0.0
+143,DIA,"Dow Jones, Nasdaq debate direction before non-farm payrolls",2021-06-04 05:57:00,0.0
+144,PSTH,Pershing Square SPAC slides 7% on report of near-deal with Universal Music Group,2021-06-03 18:06:00,0.0
+145,TWTR,Twitter launching 'Blue' subscription service at $2.99/month,2021-06-03 09:57:00,0.0
+146,NKLA,Electric vehicle sector jolted by Reddit-fueled interest in highly-shorted stocks,2021-06-03 09:44:00,0.4588
+147,DIA,"Dow Jones, Nasdaq futures fall ahead of ADP payrolls, jobless claims",2021-06-03 06:59:00,0.0
+148,AMC,AMC surges again premarket: Something deeper to the meme trade?,2021-06-03 06:03:00,0.0
+149,FUV,Investors eye most shorted stocks right now for potential AMC meltup,2021-06-02 14:54:00,0.0
+150,NKLA,Electric vehicle stocks jump despite sluggish day for Tesla,2021-06-02 11:56:00,0.3089
+151,TM,"Toyota shows off new all-electric vehicle, highlights goal to be carbon neutral by 2050",2021-06-02 07:14:00,0.0
+152,DIA,"Dow Jones, Nasdaq little changed as traders look for direction",2021-06-02 06:20:00,0.0
+153,AMZN,"Amazon supports marijuana legalization, drops weed testing with other policies",2021-06-02 04:51:00,0.4939
+154,AMZN,Amazon sets Prime Day shopping event for June 21-22,2021-06-02 01:12:00,0.1779
+155,T,AT&T/Discovery media company takes 'Warner Bros. Discovery' name,2021-06-01 13:37:00,0.0
+156,IUSV,The trend is your friend -- what worked in May,2021-06-01 11:44:00,0.4939
+157,SBUX,Consumer discretionary stocks to like amid the spending boom,2021-06-01 11:17:00,0.3612
+158,CL1:COM,Oil jumps to two-year high as OPEC+ confirms gradual production increase,2021-06-01 10:45:00,0.3182
+159,HNST,Honest Company attracts a wave of bull ratings after quiet period ends,2021-06-01 07:38:00,0.7184
+160,DNKN,Krispy Kreme moves forward with IPO plans,2021-06-01 06:49:00,0.0
+161,SPY,"Dow Jones, Nasdaq begin June on right foot as inflation remains in focus",2021-06-01 06:08:00,0.0
+162,USO,Oil traders and inflation watchers eye latest OPEC+ meeting,2021-06-01 05:03:00,0.0
+163,VIAC,'Quiet Place Part II's' $57M leads pandemic-best box office weekend,2021-05-31 16:10:00,0.0
+164,KMB,"China eases birth policy further, allows families to have three children",2021-05-31 05:03:00,0.3182
+165,DIA,Is the stock market open on Memorial Day?,2021-05-30 14:58:00,0.0
+166,ECONOMY,Trillion-dollar deficits: Essential or detrimental?,2021-05-30 10:27:00,0.0
+167,AMZN,"Amazon's MGM deal about more than just playing with Netflix, consultant says",2021-05-29 18:31:00,0.2648
+168,WEN,"Restaurant stocks to like for the inflationary, post-COVID world",2021-05-29 11:31:00,0.3612
+169,SPY,S&P 500’s weekly market breakdown and sector performance,2021-05-28 16:25:00,0.0
+170,GME,Seeking Alpha Catalyst Watch,2021-05-28 15:30:00,0.0
+171,SPCE,Virgin Galactic shares up more than 50% in week after test flight,2021-05-28 10:17:00,0.296
+172,ECONOMY,"Chicago PMI surges to 75.2, strongest since 1973",2021-05-28 09:46:00,0.4404
+173,BYND,Beyond Meat rallies again as Reddit momentum extends,2021-05-28 07:57:00,0.128
+174,DIA,"Dow Jones, Nasdaq rise ahead of key reading on inflation",2021-05-28 07:04:00,0.0
+175,JBLU,Memorial Day travel set to break pandemic records,2021-05-28 04:11:00,0.0
+176,SONY,Videogame sales dip 2% as pandemic comps prove tough hurdle,2021-05-27 11:33:00,-0.128
+177,AMC,Beyond Meat joins GameStop and AMC as favorite meme stocks on Reddit,2021-05-27 08:18:00,0.4588
+178,QQQ,"Nasdaq, Dow Jones inch down as economic data adds to Fed policy debate",2021-05-27 06:13:00,0.0
+179,WSM,Wiliams-Sonoma jumps after comparable sales sizzle across brands,2021-05-26 16:22:00,0.0
+180,XOM,Exxon activist investor wins two board seats- CEO Woods re-elected,2021-05-26 13:19:00,0.5719
+181,F,"Electric vehicles stocks rally after Ford event, Li Auto earnings",2021-05-26 10:33:00,0.0
+182,AMZN,"Amazon's MGM deal: Strategy, not economics, in focus as giant primes the media pump",2021-05-26 09:57:00,0.0
+183,F,Ford looks to jolt electric vehicle sector with new tech-heavy strategy,2021-05-26 09:52:00,0.0
+184,RIDE,Lordstown Motors 2.0 teased out by Morgan Stanley after rough week for stock,2021-05-26 08:48:00,-0.296
+185,F,Ford rallies as ambitious all-electric plans confirmed at investor event,2021-05-26 08:26:00,0.4767
+186,DIA,"Dow Jones, Nasdaq edge higher to shake off slight losses",2021-05-26 05:40:00,-0.4779
+187,BTC-USD,Elon Musk 'passionate believer' in decentralization - Microstrategy's Michael Saylor,2021-05-25 17:18:00,0.5267
+188,SPY,S&P 500 SPDR (SPY) witnesses highest short interest levels in 2021,2021-05-25 16:12:00,0.4588
+189,AMZN,Amazon sued for antitrust by D.C. attorney general over price contracts,2021-05-25 11:48:00,0.1779
+190,F,Ford expected to reveal all-electric platforms at investor event tomorrow,2021-05-25 11:45:00,0.0
+191,XOM,BlackRock backs three dissident director nominees to Exxon's board - Reuters,2021-05-25 10:39:00,-0.0516
+192,DAL,Airline stocks poised for big day after execs highlight bookings strength,2021-05-25 09:12:00,0.765
+193,BTC-USD,Bitcoin is falling again with 'Mining Council' opening to very mixed reviews,2021-05-25 08:23:00,-0.1531
+194,QQQ,"Nasdaq, Dow Jones extend gains as broader rally takes hold",2021-05-25 06:01:00,0.4767
+195,AMZN,Amazon.com nears $9B deal for MGM Holdings - WSJ,2021-05-24 14:34:00,0.0
+196,BTC-USD,ESG bitcoin ETF prospectus filed with the SEC by One River Digital Asset Management,2021-05-24 12:23:00,0.3612
+197,AAL,Airline leisure demand in U.S. tops 2019 level in latest data read,2021-05-24 11:28:00,0.4215
+198,QS,Electric vehicle stocks in focus as Wedbush revisits Green Tidal Wave thesis,2021-05-24 07:28:00,0.0
+199,BTC-USD,Bitcoin up 7% to $36.8K- trying to understand crypto price swings,2021-05-24 05:21:00,0.0
+200,DIA,"Dow Jones, Nasdaq edge higher as China targets commodity prices",2021-05-24 03:57:00,0.0
+201,T,AT&T dividend cut steals focus in blockbuster WarnerMedia-Discovery deal,2021-05-23 11:02:00,-0.128
+202,LGF.A,Quiet weekend shows cinema bounceback facing early hurdles,2021-05-22 18:31:00,0.0
+203,F,Ford could jolt electric vehicle sector again with investor event next week,2021-05-22 09:04:00,0.0
+204,SPY,S&P 500’s weekly market breakdown and sector performance,2021-05-21 16:27:00,0.0
+205,AAPL,Apple's Cook on the stand: App Store is 'economic miracle',2021-05-21 14:21:00,0.5859
+206,NFLX,Netflix seeking executive to lead videogame expansion - report,2021-05-21 09:14:00,0.0
+207,XLF,Equity ETFs witnessed their first week of net outflows in nearly 4-months,2021-05-21 08:33:00,0.0
+208,JBLU,Breeze Airways to begin flying in U.S. next week,2021-05-21 08:15:00,0.0
+209,DIA,"Dow Jones, Nasdaq edge higher after Wall Street snaps losing streak",2021-05-21 06:05:00,-0.3818
+210,SYY,"Sysco points to at-home fatigue, dials up buybacks during investor event",2021-05-20 14:09:00,-0.25
+211,BTC-USD,Bitcoin reverses lower on Biden administration plan for IRS enforcement,2021-05-20 12:16:00,-0.296
+212,BTC-USD,"The morning after: Bitcoin bounces to $42K, Ethereum to $3K",2021-05-20 10:27:00,0.0
+213,F,Ford powers higher with electric F-150 called a beast,2021-05-20 09:10:00,0.0
+214,DIA,"Dow Jones, Nasdaq futures edge down after three days of losses",2021-05-20 06:15:00,-0.4019
+215,BTC-USD,Bitcoin crash: Opportunity to buy or stay on the sidelines?,2021-05-20 05:08:00,0.0258
+216,COIN,ARK Invest buys more Coinbase on rough day for crypto,2021-05-19 22:14:00,0.0
+217,F,Ford shows off electric F-150 Lightning at live event,2021-05-19 21:54:00,0.0
+218,CSCO,"Cisco slips 5% despite earnings beat, amid light profitability forecast",2021-05-19 16:17:00,0.2732
+219,MAR,Lodging pipeline forecast to grow this year as industry recovers from pandemic pause,2021-05-19 15:05:00,0.0
+220,DTEGY,Deutsche Telekom in talks to acquire SoftBank's T-Mobile stake - Bloomberg,2021-05-19 10:09:00,0.0
+221,SPCX,First De-SPAC ETFs are set to hit the market: DSPC & SOGU,2021-05-19 09:19:00,0.0
+222,COIN,Cathie Wood doubles down on Coinbase after bailing on Apple,2021-05-19 07:55:00,0.0
+223,TGT,Target rallies after comparable sales sizzle and market share jumps,2021-05-19 06:57:00,0.296
+224,QQQ,"Nasdaq, Dow Jones extend losses before Fed minutes and retail earnings",2021-05-19 06:05:00,-0.25
+225,BTC-USD,"Bitcoin tumbles below $40K, Ether slides under $3K",2021-05-19 04:22:00,0.0
+226,T,Malone offers full-throated support to AT&T/Discovery media merger- shares close lower,2021-05-18 16:44:00,0.4019
+227,UDN,Dollar index slides breaks below 90 level to 12-week low,2021-05-18 16:37:00,-0.2732
+228,GOOG,Google launches I/O conference with eyes on new Android- Pixel chips (live updates),2021-05-18 13:03:00,0.0
+229,RIDE,Lordstown and Fisker lead strong day for EV sector while Lucid tips Nasdaq debut,2021-05-18 11:11:00,0.5106
+230,T,"AT&T slips another 6%, Discovery falls further as analysts process media merger",2021-05-18 10:31:00,0.0
+231,RIVN,Rivian stocks up on Tesla employees ahead of launch of new EV models,2021-05-18 08:54:00,0.0
+232,WMT,Walmart gains after e-commerce sales and Sam's Club strength impress,2021-05-18 07:18:00,0.8176
+233,HD,"Home Depot gains after displaying sales strength, peer Lowe's also higher",2021-05-18 07:06:00,0.6808
+234,SYY,Sysco recommended by Wells Fargo ahead of big analyst day event later this week,2021-05-17 11:06:00,0.4215
+235,COIN,Crypto-related stocks struggle after Bitcoin's weekend dive,2021-05-17 10:21:00,-0.3182
+236,T,"AT&T-Discovery media deal: BofA sees upside, Netflix dips in early reaction",2021-05-17 08:16:00,0.0
+237,T,AT&T confirms deal to merge WarnerMedia with Discovery,2021-05-17 07:18:00,0.0
+238,BTC-USD,Elon Musk and Bitcoiners engage in all-out war- Bitcoin dives to cycle low,2021-05-16 18:00:00,-0.5574
+239,TWTR,'Twitter Blue' testing push into $2.99/month subscriptions - report,2021-05-15 13:23:00,0.0
+240,SPY,S&P 500’s weekly market breakdown and sector performance,2021-05-14 16:27:00,0.0
+241,ROOT,Seeking Alpha Catalyst Watch,2021-05-14 15:30:00,0.0
+242,FB,Trump talks with small social-media contenders as he seeks new megaphone - WSJ,2021-05-14 14:55:00,0.0
+243,FB,Ireland rules against Facebook in fight over Europe-U.S. data flow,2021-05-14 13:43:00,-0.3818
+244,KO,Watch Monster Beverage stock as Coca-Cola may pull Coke Energy in the U.S.,2021-05-14 10:01:00,0.2732
+245,ECONOMY,Retail sales pause in April after an exceptionally strong March,2021-05-14 08:31:00,0.5563
+246,DASH,DoorDash rallies even higher as analyst latch on to growth story,2021-05-14 08:31:00,0.3818
+247,TSLA,Dogecoin races higher again after Elon Musk tweet,2021-05-14 07:42:00,0.0
+248,ECONOMY,"As wages and prices rise, digging into April's inflation shock reveals reasons not to panic",2021-05-14 06:28:00,0.0263
+249,QQQ,"Dow Jones, Nasdaq extend gains before retail sales data",2021-05-14 06:00:00,0.4767
+250,DIS,Disney slips 4% as quarter's streaming subs fail to rise to pandemic occasion,2021-05-13 16:15:00,-0.5423
+251,TSLA,Cryptocurrency confusion sends Tesla stock below the 200-day moving average,2021-05-13 13:44:00,-0.296
+252,FDX,UPS and FedEx recommended by Barclays on unprecedented pricing power,2021-05-13 10:22:00,0.2023
+253,TSLA,Tesla sized up by analysts for any Bitcoin blowback,2021-05-13 07:20:00,0.0
+254,BTC-USD,Elon Musk continues attack on Bitcoin mining energy usage,2021-05-13 07:09:00,-0.25
+255,DIA,"Dow Jones, Nasdaq fall further after Wall Street selloff",2021-05-13 05:53:00,0.0
+256,FB,Facebook's Diem digital currency project moves to the U.S.,2021-05-13 04:47:00,0.0
+257,BTC-USD,"Bitcoin plunges, crypto world erupts as Elon Musk questions energy usage",2021-05-12 20:39:00,0.2732
+258,TSLA,Tesla suspends Bitcoin transactions on concern over energy usage,2021-05-12 18:16:00,0.2732
+259,XLE,"Colonial Pipeline restarts operations, five days after hack",2021-05-12 17:37:00,0.0
+260,XLE,Colonial Pipeline has no plan to pay ransom to hackers - WaPo,2021-05-12 16:23:00,-0.3818
+261,ECONOMY,Hacker group DarkSide claims it has attacked new corporate targets,2021-05-12 14:41:00,-0.4588
+262,SHLX,Colonial faces restart deadline tonight as gasoline prices top $3,2021-05-12 06:59:00,0.2023
+263,DIA,"Dow Jones, Nasdaq slip before latest inflation data",2021-05-12 06:05:00,0.0
+264,ECONOMY,Traders brace for hot inflation number with CPI on tap,2021-05-12 04:18:00,0.0772
+265,FUBO,FuboTV leaps 19% as most financial metrics more than double in Q1,2021-05-11 16:50:00,0.0
+266,XLE,Colonial Pipeline remains mostly shut- east coast gas stations start to run dry,2021-05-11 07:57:00,0.0
+267,TSLA,Electric vehicle stocks fall again as China anxiety ratchets up,2021-05-11 07:39:00,-0.1779
+268,QQQ,Nasdaq futures extend selloff as tech drags broader market lower,2021-05-11 05:11:00,-0.296
+269,SPCE,Virgin Galactic falls after company says it is evaluating timing for next flight,2021-05-10 16:25:00,0.0
+270,RBLX,Roblox rises 3% as Q1 misses financial targets but shows user growth,2021-05-10 16:24:00,0.4497
+271,F,Ford to unveil all-electric F-150 next week,2021-05-10 13:50:00,0.0
+272,XB1:COM,Colonial Pipeline expects service 'substantially restored' by end of week,2021-05-10 12:45:00,0.4005
+273,FB,Group of 44 AGs urge Facebook to abandon 'Instagram Kids' plans,2021-05-10 10:39:00,-0.4404
+274,SCO:COM,"'Very hot' iron ore, copper skyrocket to new record highs",2021-05-10 08:37:00,0.0
+275,DIA,"Dow Jones rises, Nasdaq edges down as traders begin the new week",2021-05-10 06:59:00,0.0
+276,SHLX,Biden turns to emergency powers to counter Colonial Pipeline disruption,2021-05-10 04:19:00,-0.6249
+277,FB,"Facebook's content rules a 'shambles,' Oversight Board leader says",2021-05-09 13:43:00,0.0
+278,DOGE-USD,Dogecoin tumbles nearly 50% after Elon Musk calls it a 'hustle' on SNL,2021-05-09 10:26:00,0.0
+279,VZ,Verizon Media heads into uncertain future under Apollo's aegis,2021-05-08 18:31:00,-0.296
+280,FEYE,"Colonial Pipeline, key U.S. fuel artery, shut after cyberattack",2021-05-08 13:09:00,0.0
+281,SPY,S&P 500’s weekly market breakdown and sector performance,2021-05-07 16:53:00,0.0
+282,HG1:COM,"Copper explodes to all-time record high, industrial players 'in panic mode'",2021-05-07 08:54:00,-0.5106
+283,ETH-USD,"Cryptocurrency roundup: New highs for ethereum, Elon Musk advises caution, as does Gary Gensler",2021-05-07 08:41:00,0.0
+284,DKNG,DraftKings trades higher after showing off strong player growth,2021-05-07 07:42:00,0.7096
+285,DIA,"Dow Jones, Nasdaq hold steady before April's jobs report",2021-05-07 04:11:00,0.0
+286,ROKU,"Roku gains 4% as it posts revenue beat, doubled gross profits",2021-05-06 16:22:00,0.296
+287,ARKK,"Tesla, Roku, Square weigh on Cathie Wood’s flagship ARKK ETF, down 12% for the week",2021-05-06 10:35:00,0.1027
+288,DIA,"Dow Jones, Nasdaq edge higher before jobless claims",2021-05-06 05:53:00,0.0
+289,SPCE,Blue Origin to auction off seat for first space tourism flight,2021-05-05 14:13:00,0.0
+290,PTON,Peloton falls further as treadmill recall reverberations continue,2021-05-05 13:39:00,0.0
+291,PTON,Peloton Interactive stock spins lower after company agrees to treadmill recall,2021-05-05 10:08:00,-0.1027
+292,TBT,Federal Reserve will start tapering bond purchases in January - J.P. Morgan,2021-05-05 09:06:00,0.0
+293,FB,Facebook Oversight Board upholds Trump's suspension from social-media network,2021-05-05 09:02:00,0.0
+294,GM,General Motors revs higher after confident outlook despite chip shortage,2021-05-05 07:48:00,0.6046
+295,ODP,ODP Corporation plans to separate into two companies next year (update),2021-05-05 06:54:00,0.0
+296,QQQ,"Nasdaq rebounds after Yellen clarification, Dow Jones follows suit",2021-05-05 05:53:00,0.0
+297,CME,End of an era for open outcry as CME Group shutters most trading pits,2021-05-05 04:59:00,-0.5106
+298,DOGE-USD,Dogecoin surges 63% in 24 hours as altcoin rally gains steam,2021-05-05 04:06:00,0.34
+299,SPY,The trend is your friend -- what worked in April,2021-05-04 13:53:00,0.4939
+300,HD,Home Depot lands Street-high price target from Citi,2021-05-04 08:47:00,0.0
+301,ETH-USD,Ethereum and Dogecoin surge to new records as Bitcoin sticks in tight range,2021-05-04 07:49:00,0.0
+302,DIA,"Dow Jones boosted by reopening in Florida and New York, Nasdaq falls back",2021-05-04 06:05:00,0.3612
+303,ET,Army Corps says no cause to shut Dakota Access Pipeline during a review,2021-05-03 20:29:00,-0.296
+304,BRK.B,Bill and Melinda Gates are getting divorced. Here are some stocks they owned,2021-05-03 17:16:00,0.0
+305,TWTR,Twitter cuts losses on report Elliott is buying post-earnings slide,2021-05-03 12:29:00,-0.5994
+306,FB,Facebook Oversight Board to issue Trump reinstatement decision Wednesday morning,2021-05-03 12:16:00,0.0
+307,MRAC,SPAC target Enjoy called the next big thing in retail,2021-05-03 10:56:00,0.4939
+308,ECONOMY,ISM manufacturing PMI unexpectedly retreats in April,2021-05-03 10:02:00,0.0
+309,BRK.B,Warren Buffett names Greg Abel his successor at Berkshire Hathaway,2021-05-03 07:08:00,0.2263
+310,DIA,"Sell in May? Dow Jones, Nasdaq start month with gains",2021-05-03 06:55:00,0.34
+311,AAPL,What's at stake in the Epic vs. Apple trial?,2021-05-03 04:49:00,0.0
+312,ETH-USD,"Ethereum tops $3,000 for the first time as rally continues",2021-05-03 03:20:00,0.5106
+313,PFE,"To waive COVID vaccine patents, or not, that is the question",2021-05-02 15:17:00,0.0
+314,FB,"After run-up, big tech still best bet for post-pandemic - Barron's",2021-05-02 11:02:00,0.6369
+315,SONY,Videogame sales party rolls on - for now - with Q1 spending up 30%,2021-05-01 18:31:00,0.4019
+316,TSLA,Tesla called the long-term play on transformative EV shift,2021-05-01 08:34:00,0.34
+317,SPY,S&P 500’s weekly market breakdown and sector performance,2021-04-01 17:10:00,0.0
+318,CL1:COM,OPEC+ agrees to gradually raise oil production starting in May. - Reuters,2021-04-01 11:51:00,0.2023
+319,HIG,"Lion? Lamb? March's best stocks, strategies into April",2021-04-01 11:30:00,0.6767
+320,VOO,Market breakdown of the equity space in Q1,2021-04-01 11:27:00,0.0
+321,AAPL,Apple reportedly to use Tesla batteries to help light up its headquarters,2021-04-01 09:28:00,0.4019
+322,BKNG,Bank of America's highest conviction picks for Q2,2021-04-01 08:45:00,0.0
+323,TPCO,Tribune Publishing deal watchers turn eyes to Soon-Shiong's 'veto',2021-04-02 16:05:00,0.0
+324,GOOG,"Google's Waymo CEO Krafcik exiting role, handing off to co-CEOs",2021-04-02 15:46:00,0.0
+325,TSLA,Tesla tops Q1 deliveries expectations,2021-04-02 09:03:00,0.5106
+326,SAP,SAP jumps 4.2% as Google to switch to its financial software from Oracle,2021-04-05 15:55:00,0.0
+327,COST,UBS sees another 80K retail stores being shuttered in U.S.,2021-04-05 12:58:00,0.0
+328,ORCL,Supreme court finds for Google in Oracle copyright case,2021-04-05 10:08:00,0.5574
+329,SPY,"Dow Jones, Nasdaq rise after bumper jobs report",2021-04-05 06:05:00,0.0
+330,MTZ,Biden prepared to push through infrastructure plan without GOP support,2021-04-05 04:16:00,-0.092
+331,T,Box office returns as 'Godzilla vs. Kong' sets pandemic record,2021-04-05 03:14:00,0.0
+332,NFLX,"Disney Plus rivaling Netflix in subscriber loyalty, research shows",2021-04-03 18:31:00,0.5423
+333,TSLA,"Tesla on watch after deliveries beat, Wedbush upgrade",2021-04-04 21:01:00,0.0
+334,VTV,President Biden is set to announce the vaccine eligibility date has moved up to April 19th,2021-04-06 09:43:00,0.0
+335,DIA,"Dow Jones, Nasdaq pause for breath after fresh market records",2021-04-06 05:49:00,0.3182
+336,PFE,Fauci says government won't mandate vaccine passports,2021-04-06 04:58:00,0.0
+337,CS,"Credit Suisse takes $4.7B hit from Archegos disaster, slashes dividend",2021-04-06 03:11:00,-0.5106
+338,SPY,SPY witnesses trade volumes 43.4% below its average,2021-04-07 17:07:00,0.0
+339,TSLA,Tesla and pure-play EV stocks seen having infrastructure bill advantage,2021-04-07 09:39:00,0.25
+340,DKNG,"DraftKings, Rush Street higher after New York sports betting approval",2021-04-07 09:08:00,0.4767
+341,JPM,JPMorgan's Jamie Dimon sees U.S. economic boom running into 2023,2021-04-07 07:40:00,0.0
+342,DIA,"Dow Jones, Nasdaq hover near records ahead of Fed minutes",2021-04-07 06:33:00,0.0
+343,GRAB,Grab to list in U.S. via Altimeter SPAC at $35B valuation - FT,2021-04-07 04:55:00,0.0
+344,GME,GameStop plans to elect Ryan Cohen as board chairman,2021-04-08 07:21:00,0.0
+345,DIA,"Dow Jones, Nasdaq advance ahead of jobless claims and Powell speech",2021-04-08 04:15:00,0.0
+346,SPY,S&P 500’s weekly market breakdown and sector performance,2021-04-09 16:34:00,0.0
+347,BA,Boeing alerts potential production issue in some 737 MAX jets to customers,2021-04-09 07:23:00,0.0
+348,DIA,"Dow Jones, Nasdaq little changed after latest market records",2021-04-09 05:55:00,0.0
+349,AMZN,Amazon union vote likely to be appealed,2021-04-09 03:34:00,0.1779
+350,AMZN,Amazon's 'Coming 2 America' hits week 2 atop streaming ratings,2021-04-10 18:31:00,0.0
+351,NFLX,"After flood of content, are streaming services running low on new shows?",2021-04-11 11:02:00,-0.2732
+352,SPCE,Virgin Galactic sells off with Blue Origin test flight scheduled for this week,2021-04-12 15:07:00,0.0
+353,BTC-USD,Mike Novogratz's Galaxy Digital files with SEC for bitcoin ETF,2021-04-12 09:55:00,0.0
+354,TSLA,"Tesla gains after Canaccord calls it 'the brand"" in energy",2021-04-12 08:08:00,0.5423
+355,RBLX,"Roblox rises 6.2%, Hasbro 1.9% on new partnership",2021-04-13 11:14:00,0.0
+356,ETSY,Stay-at-home stocks gain after CDC pauses Johnson & Johnson vaccine,2021-04-13 09:41:00,0.5267
+357,DKNG,Sports betting closer in both Maryland and Arizona,2021-04-13 08:49:00,0.0
+358,JPM,"JPMorgan Q1 results strengthen on investment banking, equity markets revenue",2021-04-14 07:20:00,0.3182
+359,DKNG,DraftKings rallies after inking deal to be official sports betting partner of the NFL,2021-04-15 16:22:00,0.0
+360,ECONOMY,"March retail sales rise nearly 10%, easily topping estimates",2021-04-15 08:30:00,0.34
+361,SPY,S&P 500’s weekly market breakdown and sector performance,2021-04-16 16:31:00,0.0
+362,SPACE,SpaceX wins $2.9B NASA contract to develop lunar lander,2021-04-16 14:55:00,0.5719
+363,BA,Boeing 737 MAX inspections find more electrical problems,2021-04-16 13:53:00,-0.4549
+364,ATVI,"Videogame sales hit $5.6B in March, another industry record",2021-04-16 12:31:00,0.0
+365,AMZN,Amazon opening up the checkbook to become a key counterweight to Netflix,2021-04-17 18:31:00,0.1779
+366,CL1:COM,Energy’s stalled rally looks set to get back in gear: Sector Watch,2021-04-18 13:42:00,-0.2023
+367,JNJ,Fauci expects J&J vaccinations to resume later this week,2021-04-18 11:56:00,0.0
+368,NFLX,"Netflix's latest earnings arriving on cusp of post-pandemic world, hotter competition",2021-04-18 11:02:00,0.0
+369,BTC-USD,Bitcoin plunged to $50K overnight. Here's why.,2021-04-18 08:16:00,0.0
+370,NVDA,Nvidia stock slumps after UK regulator flags $40B Arm deal on national security concerns,2021-04-19 08:28:00,0.34
+371,COIN,Bitcoin pares big weekend losses- Coinbase starts week on back foot,2021-04-19 06:04:00,-0.4019
+372,DIA,"Dow Jones, Nasdaq mixed as investors size up earnings season",2021-04-19 04:01:00,0.0
+373,MESA,United drags down airline stocks after weaker-than-anticipated forecast,2021-04-20 10:10:00,0.2732
+374,SPY,S&P 500 makes a rare move into overbought territory,2021-04-20 07:35:00,0.0
+375,DOGE-USD,"Dow Jones, Nasdaq waver amid earnings deluge- 'Doge Day' in the cryptosphere",2021-04-20 06:30:00,0.0
+376,DIS,Disney seals giant licensing deal with Sony starting with 2022 slate,2021-04-21 16:45:00,0.0
+377,CMG,Chipotle tops estimates as digital ordering accounts for half of all sales,2021-04-21 16:19:00,0.5106
+378,ARVL,Electric vehicle stocks jump as U.S. and China move forward on cutting emissions,2021-04-21 14:23:00,-0.128
+379,MGM,BetMGM aims to take a quarter of all sports betting and iGaming action in U.S.,2021-04-21 09:56:00,0.0
+380,DIA,"Dow Jones, Nasdaq edge lower as market enthusiasm ebbs",2021-04-21 06:09:00,0.1779
+381,DIA,"Dow Jones, Nasdaq steady ahead of jobless data, earnings",2021-04-22 06:57:00,0.0
+382,AAPL,"Apple, Alphabet and others back Biden plan for 50% cut in emissions",2021-04-22 04:58:00,-0.2732
+383,CS,Capital raise at Credit Suisse as Archegos loss widens,2021-04-22 03:58:00,0.0772
+384,SPY,S&P 500’s weekly market breakdown and sector performance,2021-04-23 16:26:00,0.0
+385,VOO,S&P 500 snaps back up to the topside,2021-04-23 13:06:00,0.0
+386,BTC-USD,Bitcoin breaks below $50K as cryptocurrency selloff continues,2021-04-23 07:48:00,0.0
+387,SPY,"Dow Jones, Nasdaq turn higher after knee-jerk reaction to tax hike",2021-04-23 06:11:00,0.0
+388,DIS,"Disney sells out Oscars ads at steady rate, a possible advertising health harbinger",2021-04-24 18:31:00,0.0
+389,TSLA,Tesla talks up AI and Bitcoin potential on conference call,2021-04-26 18:16:00,0.0
+390,TSLA,"Tesla cruises past Q1 expectations, points to Gigafactory momentum",2021-04-26 16:19:00,0.0
+391,ESGU,How ESG are ESG ETFs? These top ESG ETFs own more oil stocks than SPY,2021-04-26 11:50:00,0.2023
+392,BTC-USD,Bitcoin bounces higher as JPMorgan warms- Ethereum eyes new record,2021-04-26 07:36:00,0.2732
+393,DIA,"Dow Jones, Nasdaq waver before earnings deluge from Tesla and Big Tech",2021-04-26 06:06:00,0.0
+394,TSLA,Tesla jump starts the busiest week of earnings season. What to expect?,2021-04-26 05:02:00,0.0
+395,BABA,Ant Group's fast-tracked IPO prompts Chinese probe,2021-04-27 10:29:00,0.0
+396,DKNG,DraftKings gains after Needham dials up the conviction in bull call,2021-04-27 07:34:00,0.34
+397,UPS,"UPS soars after earnings blowout, FedEx gains as well",2021-04-27 07:20:00,0.5423
+398,QQQ,Nasdaq notches first record since February before Big Tech earnings,2021-04-27 06:07:00,0.0
+399,AAPL,Will Apple's new privacy update shake up the mobile advertising market?,2021-04-27 05:28:00,-0.1779
+400,MNMD,Another psychedelics company goes public on a U.S. exchange,2021-04-27 04:18:00,0.0
+401,AMZN,Judge declines to toss Amazon's bid to recover JEDI contract,2021-04-28 19:54:00,0.0
+402,VZ,Verizon explores sale of media group - WSJ,2021-04-28 16:45:00,0.0
+403,AAPL,"Apple rises 4% after easy revenue/profit beat, hike to dividend and buybacks",2021-04-28 16:39:00,0.4404
+404,F,Ford expects to lose half of planned Q2 production from chip shortage,2021-04-28 16:35:00,-0.5719
+405,FB,Facebook jumps 5% as ad recovery drives blowout earnings quarter,2021-04-28 16:13:00,0.0
+406,T,Ad-supported HBO Max to cost $9.99/month - CNBC,2021-04-28 15:54:00,0.0
+407,VOO,ETFs continue their record-shattering inflow pace,2021-04-28 11:20:00,0.0
+408,BA,"BA stock wavers as Boeing 'recovery gains traction, but remains uneven'",2021-04-28 07:59:00,0.1779
+409,DIA,"Dow Jones, Nasdaq waver before Fed meeting and Big Tech earnings",2021-04-28 06:41:00,0.0
+410,TWTR,"Twitter slides 8% as Q1 users, revenue come in largely as expected",2021-04-29 16:14:00,0.0
+411,PG,Consumer companies warn on higher prices,2021-04-29 15:57:00,-0.1027
+412,MCD,McDonald's smashes comparable sales expectations,2021-04-29 07:23:00,0.0
+413,QQQ,"Dow Jones and Nasdaq rise after Big Tech earnings, GDP on tap",2021-04-29 06:08:00,0.0
+414,AMZN,"Amazon tops $3,500 premarket before bumper earnings, rumored stock split",2021-04-29 04:46:00,0.6124
+415,SPY,S&P 500’s weekly market breakdown and sector performance,2021-04-30 16:26:00,0.0
+416,BTC-USD,Bitcoin reclaims some lost ground versus Ethereum,2021-04-30 10:58:00,-0.3182
+417,XOM,Exxon snaps losing streak with better than forecast Q1 earnings,2021-04-30 08:22:00,0.0772
+418,SPY,"Dow Jones, Nasdaq slip before consumer data- earnings week wraps up",2021-04-30 06:19:00,0.0
+419,TCEHY,"As China widens crackdown on fintech, industry could see fundamental shift",2021-04-30 04:31:00,0.0
+420,ROKU,"Roku rises 2.9%, Nielsen jumps 5.7% on strategic deal covering ratings, dynamic ads",2021-03-01 17:36:00,0.3818
+421,DTEC,"Cathie Wood’s new competition, First Trust files for Innovation Leaders ETF with SEC",2021-03-01 09:23:00,0.7096
+422,SPY,Stocks begin March on right foot as Treasury yields retreat,2021-03-01 06:28:00,0.3818
+423,AMZN,Biden voices support for Amazon union vote in Alabama,2021-03-01 04:32:00,0.5267
+424,ACB,Recreational marijuana legalization is coming to Virginia,2021-03-01 02:24:00,0.0
+425,FUBO,"FuboTV reports strong revenues, subscribers- details sports wagering plans",2021-03-02 16:48:00,0.5106
+426,FB,Facebook dips as CFO says vaccine progress means ad growth headwinds,2021-03-02 15:19:00,0.6597
+427,LI,Chinese auto stocks expected to roll past near-term chip shortage issue,2021-03-02 12:40:00,-0.25
+428,SPX,Barstool’s Dave Portnoy promotes Van Eck's new BUZZ ETF,2021-03-02 11:51:00,0.34
+429,ARKK,Cathie Wood’s ARK Innovation ETF sees second-highest inflows of $464M,2021-03-02 09:41:00,0.3818
+430,TSLA,Tesla's strong ecosystem seen reducing risk of being 'Blackberried',2021-03-02 08:07:00,0.296
+431,TGT,Target impresses with 20% comp during holiday quarter,2021-03-02 06:57:00,0.7003
+432,SPY,Stock futures tick lower after S&P 500's best day since June,2021-03-02 05:43:00,0.4588
+433,BLNK,California city becomes first in U.S. to ban new gas stations,2021-03-02 03:42:00,-0.5574
+434,DIS,Disney to close dozens of retail stores in shift toward e-commerce,2021-03-03 16:34:00,0.0
+435,AMZN,Amazon in talks for more exclusive NFL games- most TV rights fees set to double - WSJ,2021-03-03 16:26:00,0.3597
+436,USX,Stock picks for the zero-emission commercial vehicle transition,2021-03-03 09:00:00,0.0
+437,TLT,ADP Jobs up 117K in February vs. 165K expected,2021-03-03 08:16:00,0.0
+438,DISH,DraftKings and DISH Network rally after partnering on sports betting,2021-03-03 07:46:00,0.0
+439,SPAK,U.K. looks to siphon some SPACs across the Atlantic,2021-03-03 05:40:00,0.0
+440,CL1:COM,Oil surges as OPEC+ agrees not to boost production,2021-03-04 11:06:00,-0.1174
+441,GM,Electric vehicle stock sell-off called 'massive' buying opportunity,2021-03-04 08:34:00,0.4215
+442,KNX,BofA bullish on trucking as cyclical recovery hits higher gear,2021-03-04 08:23:00,0.0
+443,WMT,Walmart eyes SPAC path for Flipkart,2021-03-04 06:56:00,0.0
+444,USO,Don't write off any surprises at today's OPEC+ meeting,2021-03-04 04:35:00,0.2263
+445,SPY,Stock futures waver ahead of Powell's latest appearance,2021-03-04 04:02:00,0.0
+446,DIS,"California allowing limited reopening April 1 for theme parks, stadiums",2021-03-05 17:47:00,-0.2263
+447,T,"SEC sues AT&T, three execs over selective disclosures (updated)",2021-03-05 16:37:00,0.0
+448,TSLA,Seeking Alpha Catalyst Watch,2021-03-05 15:15:00,0.0
+449,SOLO,Electric vehicle stocks sell off to put investors to the test,2021-03-05 10:46:00,0.0
+450,QQQ,Futures recover from big overnight losses to trade flat,2021-03-05 07:43:00,-0.4019
+451,SPCE,Virgin Galactic Chairman Chamath Palihapitiya sells personal stake,2021-03-05 07:38:00,0.0
+452,USO,WTI crude oil tops $65 for first time since January 2020,2021-03-05 06:24:00,-0.1027
+453,SPY,Stock futures slip again as Powell fails to reassure investors,2021-03-05 04:05:00,-0.1027
+454,VIAC,"Now all in on streaming, ViacomCBS must balance spending with legacy TV",2021-03-06 18:30:00,0.0
+455,QQQ,Senate passes $1.9T COVID relief bill,2021-03-06 12:33:00,0.4767
+456,WKHS,Electric vehicle stocks cool as legislation hopes warm,2021-03-06 09:28:00,0.7184
+457,CO1:COM,Brent crude pops above $70 as Saudi oil terminal attacked,2021-03-07 20:49:00,-0.7717
+458,CMCSA,"Comcast's Roberts speaks on potential Hulu exit, 'substantial' cash inflow",2021-03-07 11:02:00,0.2023
+459,TWTR,Latest NFT craze? Jack Dorsey is selling his first tweet,2021-03-07 09:57:00,-0.1531
+460,WKHS,House Democrats to push electric vehicle legislation,2021-03-08 11:50:00,0.0
+461,AIRO,5G player Airspan takes the SPAC road,2021-03-08 08:25:00,0.0
+462,QQQ,Nasdaq stumbles into new week,2021-03-08 04:07:00,0.0
+463,DIS,Disney Plus passes 100M subscribers,2021-03-09 13:32:00,0.0
+464,NIU,Tesla leads big day of recovery for electric vehicle stocks,2021-03-09 13:31:00,0.0
+465,TLT,"Tesla, PayPal, Apple lead Nasdaq's big gains",2021-03-09 11:17:00,0.34
+466,DKNG,DraftKings pops after setting high sports betting targets,2021-03-09 09:14:00,0.0
+467,COIN,Bitcoin takes off with Coinbase reportedly valued at $90B,2021-03-09 06:55:00,0.4404
+468,QQQ,Nasdaq rebounds after entering a technical correction,2021-03-09 05:13:00,0.0
+469,ABBV,"Corporate vaccination drives get underway, as well as mask policies",2021-03-09 03:38:00,0.2732
+470,MVP,"New sports ETF to cover media, apparel and teams",2021-03-10 12:25:00,0.0
+471,PENN,Penn outperforms casino sector ahead of Barstool's Illinois launch,2021-03-10 10:07:00,0.0
+472,GE,GE affirms downbeat earnings view following AerCap deal- plans reverse split,2021-03-10 07:02:00,0.0
+473,GE,"GE confirms deal to combine GECAS, AerCap",2021-03-10 06:47:00,0.0
+474,DIA,Stock futures debate direction following tech relief rally,2021-03-10 06:09:00,0.4767
+475,HOOD,Equities and brokerages could benefit from coming stimulus checks,2021-03-10 04:28:00,0.4588
+476,VIAC,Ad revenue for 'March Madness' set to hit record after year away,2021-03-11 13:03:00,-0.4404
+477,VZ,"Verizon targets steady revenue growth, kicks off bond sale for massive spectrum buy",2021-03-11 11:17:00,0.3818
+478,GOEV,Canoo jumps after unveiling electric pickup plans,2021-03-11 07:43:00,0.0
+479,GME,The 'meme stock' trade appears to be picking up again,2021-03-11 05:33:00,0.0
+480,QQQ,Nasdaq futures lead overnight gains after House approves stimulus bill,2021-03-11 03:49:00,0.6249
+481,NFLX,Netflix explores licensing its content in apparent reversal - report,2021-03-12 15:41:00,0.0
+482,NTDOY,"Videogame sales hit $4.6B in February, another monthly record",2021-03-12 14:34:00,0.0
+483,TSLA,Tesla seen being a $3 trillion stock by 2030,2021-03-12 10:38:00,0.0
+484,T,"AT&T launches investor day with updates on HBO Max, fiber, spectrum, debt (live updates)",2021-03-12 09:50:00,-0.3612
+485,QQQ,Nasdaq futures drop as rising yields spook tech again,2021-03-12 07:15:00,-0.2732
+486,PFE,Biden says all U.S. adults to be eligible for vaccines by May. 1,2021-03-12 04:30:00,0.0
+487,AMC,"AMC, WarnerMedia making peace with new streaming windows",2021-03-13 18:31:00,0.5423
+488,BTC-USD,Bitcoin tops $60K amid more institutional investment,2021-03-13 08:42:00,0.5106
+489,ERIC,"In telecom equipment sales, Ericsson catches up to Nokia - but Huawei still dominates",2021-03-14 11:02:00,0.0772
+490,SPCX,SPACs are catching the attention of short sellers,2021-03-14 09:02:00,0.0
+491,UAL,United leads airline stocks higher after forecasting positive cash flow,2021-03-15 11:36:00,0.7506
+492,DKNG,"Penn, DraftKings and FanDuel in the spotlight with March Madness betting seen topping $1B",2021-03-15 09:24:00,-0.4404
+493,SPY,"Stock futures start week on right foot, inflation concerns linger",2021-03-15 06:04:00,0.0
+494,STRIP,"Stripe confirms $95B valuation, becoming most expensive U.S. startup",2021-03-15 04:59:00,0.0
+495,BTC-USD,Could Bitcoin and other cryptos be banned in the U.S.?,2021-03-15 03:57:00,-0.4588
+496,GOOG,Several states join Texas in Google antitrust suit,2021-03-16 13:49:00,0.296
+497,VTI,Vanguard focuses on Ant Group joint venture and scraps fund decisions in China,2021-03-16 09:05:00,0.0
+498,XRT,Retail sales drop in February as weather and stimulus timing play out,2021-03-16 08:46:00,0.0772
+499,QQQ,Nasdaq continues march higher as Fed begins latest meeting,2021-03-16 07:57:00,0.0
+500,XLE,WisdomTree is bullish on commodities,2021-03-17 13:02:00,0.0
+501,NDX:IND,Nasdaq futures tumble as 10-year Treasury yields spike to post-pandemic highs,2021-03-17 07:45:00,0.2023
+502,DRI,St. Patrick's Day marks the start of restaurant recovery period,2021-03-17 07:28:00,0.0
+503,GME,Another GameStop hearing on tap as retail traders await stimulus,2021-03-17 05:45:00,0.1027
+504,BTC-USD,Sotheby's enters the NFT art world with crypto options,2021-03-17 04:54:00,0.0
+505,SPY,Stock futures flat as traders hold breath before Fed meeting,2021-03-17 04:20:00,0.0
+506,F,"Ford to cancel shifts, partially assemble some vehicles in global chip shortage",2021-03-18 19:15:00,-0.4588
+507,AMZN,NFL settles new media deals at $100B-plus- Amazon takes Thursday nights (updated),2021-03-18 16:09:00,0.1779
+508,CL1:COM,"Oil sinks to lowest this month on U.S.-Russia tension, rising inventory",2021-03-18 13:18:00,-0.5994
+509,QQQ,Nasdaq pulls back but Dow Jones edges higher as 10-year Treasury yield tops 1.7%,2021-03-18 06:33:00,0.7684
+510,XLI,S&P 500's weekly sector performance and breakdown,2021-03-19 16:43:00,0.0
+511,GME,Seeking Alpha Catalyst Watch,2021-03-19 15:30:00,0.0
+512,FB,Facebook facing new antitrust probe in UK - FT,2021-03-19 13:44:00,0.0
+513,FB,Facebook jumps 4.5% as Zuckerberg expects to manage through Apple changes,2021-03-19 10:48:00,0.0
+514,BTC-USD,Bitcoin ETF hits $1 billion AUM,2021-03-19 08:40:00,0.0
+515,QQQ,Nasdaq and Dow Jones bounce as 10-year Treasury yield pulls back,2021-03-19 05:30:00,0.2023
+516,FOX,"Analysts weigh massive NFL deals: Some change, but a lot more of the same",2021-03-20 18:31:00,0.0
+517,NFLX,"Global online video subs top 1B - but revenues still lag cable, report says",2021-03-21 11:02:00,-0.4019
+518,BTC-USD,Stimulus checks are making their way into Bitcoin and stocks,2021-03-21 10:24:00,0.0
+519,ARVL,Electric vehicle startup Arrival sets board before SPAC debut,2021-03-22 08:45:00,0.0
+520,TPR,"Tapestry, Farfetch and Mytheresa land as Cowen's top picks in discretionary retail",2021-03-22 06:56:00,0.2023
+521,QQQ,"Nasdaq advances, Dow Jones falls back, as bond yields retreat",2021-03-22 06:06:00,0.2023
+522,TUR,Turkish lira plunges after Erdogan ousts another central banker,2021-03-22 04:32:00,0.0
+523,AZN,AstraZeneca vaccine found to be 79% effective in U.S. trial,2021-03-22 03:33:00,0.4767
+524,NVDA,Self-driving truck startup TuSimple files for IPO,2021-03-23 16:52:00,0.0
+525,CL1:COM,"Oil plunges 6% as European pandemic lockdowns, rollouts weigh",2021-03-23 15:56:00,0.0
+526,COMP.IND,Nasdaq and Dow Jones both down more than 1% late in session,2021-03-23 15:45:00,0.0
+527,VIX,Volatility levels dip down to pre-pandemic marks,2021-03-23 11:57:00,0.0
+528,PENN,Penn joins the S&P 500 Index with casinos and sports betting blazing hot,2021-03-23 08:58:00,0.0
+529,TSLA,Tesla's Autopilot said to make driving safer,2021-03-23 08:01:00,0.4215
+530,TSLA,Tesla crypto move called seminal moment for Bitcoin,2021-03-24 09:58:00,0.0
+531,MCD,McDonald's tipped to see Q1 earnings surprise in U.S.,2021-03-24 09:03:00,0.2732
+532,GME,GameStop falls as analysts refocus on fundamentals,2021-03-24 07:44:00,0.0
+533,QQQ,"Nasdaq leads overnight gains, Dow Jones and S&P 500 point green",2021-03-24 06:35:00,0.34
+534,CL1:COM,Oil rebounds after stuck ship blocks Suez Canal in both directions,2021-03-24 05:53:00,-0.4404
+535,TSLA,Elon Musk says you can now buy a Tesla with Bitcoin,2021-03-24 04:36:00,0.0
+536,ARKK,Cathie Wood sees positive deflationary pressures,2021-03-25 13:29:00,0.3182
+537,FB,"Facebook, Google, Twitter CEOs return to Congress to discuss liability protection reform",2021-03-25 10:15:00,-0.2023
+538,DRI,Darden's guidance said to look positive for restaurant sector,2021-03-25 08:24:00,0.5574
+539,BTC-USD,Yields? Rotation? Valuation? What's going on with the Nasdaq and Dow Jones,2021-03-25 06:17:00,0.0
+540,BABA,More pressure for Chinese tech stocks as SEC rolls out delisting law,2021-03-25 05:07:00,-0.3597
+541,CL1:COM,Traffic jam builds at Suez Canal- blockage could last until next week,2021-03-25 04:05:00,0.0
+542,SPY,S&P 500’s weekly market breakdown and sector performance,2021-03-26 16:35:00,0.0
+543,SPY,$74.7 billion injected in net purchases of fund assets by market participants,2021-03-26 11:42:00,0.1779
+544,IBUY,Stimulus checks flow right into online buying,2021-03-26 07:36:00,0.0
+545,QQQ,"Proceed with caution: Nasdaq, Dow Jones inch up overnight",2021-03-26 06:14:00,0.0
+546,GOOG,Did the gloves come off in the Big Tech boxing ring?,2021-03-26 04:51:00,0.0
+547,NFLX,"Americans watching a 'lot more' TV, pointing to new streaming normal - study",2021-03-27 18:31:00,0.0
+548,AMKAF,"Container ship stuck in Suez is set free, authorities say",2021-03-29 09:45:00,0.3182
+549,LUV,Southwest and Alaska Air land at the top of BofA's airline stocks list,2021-03-29 07:48:00,0.2023
+550,CHWY,"Chewy rallies after earnings beat, setting guidance ahead of expectations",2021-03-30 16:22:00,0.0
+551,AVGO,Amazon.com pursues its own networking chip amid frosty Broadcom relationship - report,2021-03-30 09:59:00,0.0
+552,TSLA,Tesla and Toyota reportedly considering a SUV partnership,2021-03-30 09:29:00,0.0
+553,WKHS,Workhorse Group gains after ARK Invest adds shares again,2021-03-30 06:57:00,0.5574
+554,CMCSA,Universal considers pulling films from Netflix and HBO Max to favor Peacock - report,2021-03-31 18:06:00,0.4019
+555,IYT,President Biden’s American Job Plan & the ETFs that can be affected,2021-03-31 16:47:00,-0.1531
+556,EWQ,"France's Emmanuel Macron shuts down schools, implements domestic travel ban",2021-03-31 14:38:00,-0.5574
+557,TWTR,Social media stocks trim gains with Trump 'moving forward' on new platform,2021-03-31 14:16:00,0.34
+558,XPEV,XPeng claims record for longest autonomous drive,2021-03-31 13:29:00,0.0
+559,BDRY,ETF Q1 performance review & market momentum for Q2,2021-03-31 12:42:00,0.0
+560,TSLA,Electric vehicle stocks rally after Biden proposes massive investment in EV market,2021-03-31 10:10:00,0.0
+561,T,AT&T enters $14.7B loan with BofA to fund spectrum spending spree,2021-02-01 18:08:00,0.0
+562,SPACE,SpaceX to launch all-civilian mission this year,2021-02-01 16:26:00,0.0
+563,FB,Facebook offering users prompt to counter Apple's privacy moves,2021-02-01 13:17:00,0.0
+564,F,Ford leans on Google for connected vehicle tech,2021-02-01 11:47:00,0.0
+565,TSLA,Tesla gains after Piper says more fireworks are on the way,2021-02-01 09:38:00,0.34
+566,SPY,S&P futures rise 1% as stocks recover from worst week since October,2021-02-01 06:02:00,-0.6249
+567,SLV,Silver hits 5-month highs as retail trading frenzy moves into commodities,2021-02-01 03:51:00,-0.3182
+568,GOOG,Alphabet logs 6% jump as ad-sales rebound spurs 23.5% revenue gains in Q4,2021-02-02 16:19:00,0.34
+569,DKNG,DraftKings soars after Ark Invest snaps up shares for popular ETF,2021-02-02 15:14:00,0.6124
+570,DKNG,Sports betting apps could be the Super Bowl MVP this year,2021-02-02 10:08:00,0.5994
+571,XOM,Exxon edges past Q4 earnings expectations but full-year loss totals $20B,2021-02-02 08:25:00,-0.4497
+572,GME,Does a GameStop movie suggest the WSB/Reddit saga is over?,2021-02-02 05:33:00,0.0
+573,GOOG,"Nasdaq futures climb ahead of Big Tech earnings from Alphabet, Amazon",2021-02-02 04:12:00,0.1779
+574,GME,GameStop trades to be looked at from all sides by SEC,2021-02-03 15:10:00,0.0
+575,GM,GM joins long list of automakers impacted by chip shortages,2021-02-03 12:17:00,-0.1531
+576,RIVN,Rivian electric delivery vans are out in the wild in L.A.,2021-02-03 08:57:00,0.0
+577,GME,Google earnings boost Nasdaq futures- What's next for Reddit traders?,2021-02-03 05:53:00,0.4019
+578,GME,Yellen convenes regulators to discuss WSB/Reddit rollercoaster,2021-02-03 03:54:00,0.0
+579,JNJ,Johnson & Johnson applies for emergency use OK for COVID-19 vaccine,2021-02-04 17:55:00,0.0857
+580,ITP,Seeking Alpha Catalyst Watch,2021-02-05 15:30:00,0.0
+581,PFE,Pfizer pulls application in India for COVID-19 vaccine emergency use - Reuters,2021-02-05 01:15:00,-0.3818
+582,AMZN,Peacock's absence from Amazon Fire TV is a notable exception to the year's streaming team-ups,2021-02-06 18:31:00,-0.1779
+583,VIAC,Super Sunday brings unique challenges for Super Bowl business amid pandemic,2021-02-07 11:01:00,0.8442
+584,EA,Electronic Arts to buy Glu Mobile- Glu resumes trading up 37% (updated),2021-02-08 16:09:00,0.0
+585,TSLA,Tesla-Bitcoin shocker expected to add to momentum story both ways,2021-02-08 08:25:00,-0.1531
+586,BTC-USD,Bitcoin tops $42K after Tesla invests in crypto,2021-02-08 07:55:00,0.5106
+587,TWTR,"Twitter higher early after Q4 beat, though user growth fell short",2021-02-09 16:29:00,0.3818
+588,CSCO,"Cisco slips 3.3% as it ekes out another beat of estimates, thanks to services",2021-02-09 16:16:00,0.4404
+589,T,NBCUniversal strategy points to benefits of prospective WarnerMedia merger - report,2021-02-10 18:24:00,0.3818
+590,FB,Facebook building audio-chat product to rival Clubhouse - NYT,2021-02-10 13:34:00,0.0
+591,TM,Toyota rallies after announcing new electric vehicles for U.S. market,2021-02-10 13:19:00,0.0
+592,TWTR,Twitter rises 6.7% as analysts see few worries in fourth-quarter earnings beat,2021-02-10 12:10:00,-0.4215
+593,SUBZ,"Netflix, FuboTV and Spotify feature in first all-streaming ETF",2021-02-10 09:05:00,0.0
+594,KO,Coca-Cola gains 2% after organic sales top expectations,2021-02-10 07:29:00,0.4939
+595,CMLF,Ark Invest buys heavily into CM Life Sciences ahead of SPAC deal,2021-02-11 20:38:00,0.0
+596,DIS,Disney earnings call: Subs beat leaning on Hotstar growth- pent-up parks demand (updated),2021-02-11 17:02:00,0.2732
+597,DIS,"Disney rises 1.9% on surprise profit with better-than-expected revenue drop, subscriber beat",2021-02-11 16:14:00,0.4404
+598,POSH,Poshmark soars after launching pets category,2021-02-11 13:17:00,0.0
+599,TSLA,"Tesla, Nio and Li Auto may be hit by battery cell shortage",2021-02-11 09:31:00,-0.25
+600,JAZZ,Cannabis craze sees marijuana names light up again,2021-02-11 07:27:00,-0.1531
+601,BLDE,Experience Investment Corp. rallies after Ark Invest buys more shares,2021-02-11 07:13:00,0.3597
+602,GTHX,G1 Therapeutics jumps 16.9% as trilaciclib wins FDA approval,2021-02-12 17:39:00,0.873
+603,FB,Facebook working on smartwatch for next year - report,2021-02-12 16:22:00,0.0
+604,GSAT,Seeking Alpha Catalyst Watch,2021-02-12 15:15:00,0.0
+605,SPY,Wall Street wraps up the week with record trading volumes,2021-02-12 04:04:00,0.0
+606,NTDOY,"Videogame sales jump again, up 42% to January-record $4.7B",2021-02-13 18:31:00,0.0
+607,GP,GreenPower Motor buzzing after deal with Berkshire Hathaway company,2021-02-13 10:13:00,0.0
+608,NFLX,"New content joins in streaming charts, but Netflix keeps on logging hours",2021-02-14 11:02:00,0.0
+609,F,Ford exits position in lidar specialist Velodyne,2021-02-15 10:37:00,0.0
+610,PFE,Could a COVID vaccine passport be issued in the U.K.?,2021-02-15 06:43:00,0.0
+611,SLV,Silver squeeze and its aftermath,2021-02-16 16:17:00,0.0
+612,GIS,General Mills outlines growth strategy at CAGNY conference,2021-02-16 07:55:00,0.3818
+613,TWTR,Parler comes back online after a month off the internet,2021-02-16 05:41:00,0.0
+614,LMT,China sets sights on rare earths as trade war persists - FT,2021-02-16 05:15:00,-0.5994
+615,XOM,"Deepening energy crisis sees oil hit pandemic high, natural gas prices soar",2021-02-16 04:09:00,-0.128
+616,ARKK,Cathie Wood and ARK Invest have a beat on the market,2021-02-17 13:14:00,0.0
+617,BETZ,Sports betting ETF BETZ approaching 100% return since inception,2021-02-17 11:16:00,0.0
+618,F,Ford puts a charge in auto sector with electric push,2021-02-17 10:48:00,0.0
+619,MO,Altria outlines its big 'moving beyond smoking' initiative,2021-02-17 10:27:00,0.0
+620,QS,QuantumScape said to have made EV battery breakthrough,2021-02-17 07:46:00,0.0
+621,F,Ford goes 'all-in' on electric vehicles in Europe,2021-02-17 05:31:00,0.0
+622,BTC-USD,"Bitcoin rally keeps going, tops $51K for first time",2021-02-17 04:28:00,0.5106
+623,PFE,Real world data: Symptomatic COVID cases dropped 94% with Pfizer vaccine,2021-02-17 03:48:00,0.0
+624,ESG,Putnam Investments announces new actively managed ESG and growth and value ETFs,2021-02-18 14:03:00,0.743
+625,CRK,Mexico calls in after Texas halts gas exports,2021-02-18 06:10:00,0.0
+626,HOOD,"GameStop hearing on tap with Robinhood, Melvin, Reddit and Citadel CEOs",2021-02-18 04:15:00,0.0
+627,APA,Seeking Alpha Catalyst Watch,2021-02-19 15:15:00,0.0
+628,XLU,Texas grid manager ends power emergency but 14M remain without water,2021-02-19 13:21:00,-0.2023
+629,DKNG,"DraftKings, Penn on watch as sports betting push in Canada gains momentum",2021-02-19 08:11:00,0.34
+630,AAL,Airlines make push for green incentives,2021-02-19 07:38:00,0.3182
+631,UBER,"Uber slips as U.K. drivers wake up as employees, not contractors",2021-02-19 06:38:00,0.0
+632,PFE,Global vaccine distribution a focus at G7 summit,2021-02-19 04:04:00,0.0
+633,LUCIDM,Lucid Motors-Churchill SPAC deal could be announced soon at $15B valuation,2021-02-20 17:26:00,0.0
+634,UBER,Massive electric vehicle disruption to test investors,2021-02-20 10:04:00,-0.3612
+635,NFLX,Some older series help keep Netflix stranglehold on streaming ratings,2021-02-21 11:02:00,0.4019
+636,PFE,"Israel publishes real-world data of Pfizer vaccine, prevents 98.9% of COVID deaths",2021-02-21 08:42:00,0.0772
+637,TSLA,Tesla leads electric vehicle sector down as investors test drive value stocks,2021-02-22 16:13:00,0.34
+638,XRT,Consumer stocks like Starbucks and McDonald's tipped to see historic recovery,2021-02-22 09:34:00,0.3612
+639,BTC-USD,Bitcoin falls hard through $50K as selloff picks up steam,2021-02-22 09:25:00,-0.1027
+640,CCIV,Churchill Capital IV soars on confidence in SPAC deal with Lucid Motors,2021-02-22 07:58:00,0.5106
+641,BTC-USD,Bitcoin takes a step back after topping $58K over weekend,2021-02-22 05:56:00,0.0
+642,SPY,Stock futures retreat as Treasury yields march higher,2021-02-22 04:29:00,0.3818
+643,TSLA,ARK Invest buys more Tesla amid stumble in electric vehicle stocks,2021-02-23 20:08:00,0.0
+644,CORP,BlackRock’s iShares files for BBB-rated corporate-bond ETF,2021-02-23 18:25:00,0.0
+645,T,AT&T near deal to sell 'large' minority stake in video operations to TPG,2021-02-23 14:02:00,0.0
+646,SNAP,"Snap stock pops into positive ground, expecting years of 50% revenue growth",2021-02-23 13:22:00,0.7351
+647,TSLA,Auto sector jolted by intense selling in electric vehicle stocks,2021-02-23 10:02:00,0.0772
+648,CCIV,"Tesla, Churchill Capital pace big downturn in electric vehicle stocks",2021-02-23 07:51:00,0.0
+649,BTC-USD,Bitcoin sinks to $45K as crypto washout deepens,2021-02-23 07:22:00,0.0
+650,QQQ,"Nasdaq set to continue losing streak, Bitcoin fights for support at $50K",2021-02-23 05:38:00,-0.3818
+651,VIAC,ViacomCBS launching Paramount Plus with major presentation (live updates),2021-02-24 16:52:00,0.0
+652,VIAC,ViacomCBS dips after mixed earnings ahead of Paramount Plus rollout,2021-02-24 16:11:00,0.0
+653,VGT,"BlackRock Institute gets more bullish on the economy, recommends US large caps, emerging markets, UK",2021-02-24 14:49:00,0.2263
+654,FSR,Fisker soars 37% after Foxconn deal on breakthrough electric vehicle,2021-02-24 14:00:00,0.0
+655,WMT,Retail sales forecast to rise as much as 8% this year against pandemic comparable,2021-02-24 11:23:00,0.0
+656,ARKK,Cathie Wood's ARK Innovation ETF had a record $456M outflow yesterday,2021-02-24 09:35:00,0.3818
+657,FSR,Fisker and Foxconn to partner in electric vehicle shocker,2021-02-24 07:21:00,-0.1531
+658,T,AT&T will direct $8B in cash from DirecTV deal to debt reduction - CEO,2021-02-25 17:22:00,-0.3612
+659,BYND,Beyond Meat goes mainstream with huge McDonald's and Yum Brands deals,2021-02-25 16:28:00,0.3182
+660,T,AT&T spinning off DirecTV in multibillion-dollar deal with TPG,2021-02-25 16:24:00,0.0
+661,COMP.IND,Nasdaq posts biggest loss in four months as high yields bite into stocks,2021-02-25 16:05:00,-0.3182
+662,BA,"Boeing to pay another $6.6M in fines over safety concerns, FAA says",2021-02-25 15:49:00,0.34
+663,TWTR,"Twitter details revenue strategies: 'Super followers,' performance ads",2021-02-25 13:51:00,0.5994
+664,TBT,"As 10-year Treasury yield nears 1.5%, watch out for an 'equities riot'",2021-02-25 11:40:00,-0.4215
+665,TWTR,"Twitter jumps 12% as it sets goal to hit 315M users, double revenue in three years",2021-02-25 09:11:00,0.0
+666,COIN,Coinbase files for public listing after earning $322M last year,2021-02-25 07:55:00,0.0
+667,RIVN,"Rivian, Lucid and Fisker called EV winners by CFRA",2021-02-25 07:45:00,0.4767
+668,W,Wayfair stock slides 7% after rare revenue miss,2021-02-25 07:26:00,-0.1531
+669,DIA,"Stocks waver as yields rise, WSB/Reddit trades resurface",2021-02-25 06:05:00,0.0
+670,GME,"GameStop, AMC, Koss, Express pare some gains, still up big premarket",2021-02-25 05:24:00,0.34
+671,MP,Biden signs executive order to review critical supply chains,2021-02-25 04:04:00,-0.3182
+672,JNJ,Johnson & Johnson rises as COVID-19 vaccine clears FDA panel vote,2021-02-26 17:10:00,0.0772
+673,BRK.A,Seeking Alpha Catalyst Watch,2021-02-26 15:15:00,0.0
+674,DKNG,DraftKings higher after lifting revenue guidance,2021-02-26 08:17:00,0.0
+675,NFLX,"Netflix, Disney show different looks in streaming-war dispatches from Pacific theater",2021-02-27 18:31:00,0.0
+676,JNJ,Johnson & Johnson COVID-19 vaccine wins FDA's emergency-use approval,2021-02-27 18:21:00,0.7783
+677,WKHS,Electric truck maker Workhorse falls in the spotlight with earnings on tap,2021-02-27 09:00:00,0.0
+678,BRK.B,"Berkshire Hathaway Q4 operating earnings helped by railroad, utilities, energy",2021-02-27 08:03:00,0.2732
+679,HOOD,Robinhood may confidentially file for IPO in March - Bloomberg,2021-02-27 07:28:00,0.0
+680,VZ,Making sense of the record-breaking 5G spectrum auction,2021-02-28 11:02:00,0.0
+681,TSLA,"Tesla tops Q4 deliveries expectations, just shy of 500K for 2020",2021-01-02 10:55:00,0.3182
+682,BTC-USD,"Bitcoin tops $34,000 as rally extends into 2021",2021-01-03 07:40:00,0.5859
+683,IUSV,"New year brings inflation worries, equity correction into view",2021-01-04 14:37:00,-0.4215
+684,LI,Electric vehicle stocks rally after strong demand reports from China,2021-01-04 11:22:00,0.4215
+685,TLRY,Georgia Senate election is a big wildcard in the cannabis sector,2021-01-04 08:01:00,0.0
+686,DASH,Wall Street ratings arrive on DoorDash with Needham leading the bull charge,2021-01-04 07:11:00,0.0
+687,RIVN,Electric truck startup Rivian raises more funds,2021-01-05 15:30:00,0.0
+688,CL1:COM,WTI crude oil tops $50 after Saudi Arabia announces production cut,2021-01-05 13:59:00,-0.3612
+689,FB,"Facebook blocks Trump posts for 24 hours, joining Twitter in suspending president (updated)",2021-01-06 20:34:00,-0.2263
+690,AMZN,"Big Tech stocks stumble, electric vehicle stocks gain as Georgia election digested",2021-01-06 07:40:00,0.5267
+691,AAPL,Apple and Hyundai in talks over electric vehicle partnership,2021-01-07 22:01:00,0.0
+692,TWTR,"Trump returns to Twitter with video message on Capitol storming, transition",2021-01-07 19:15:00,0.0
+693,BA,"Boeing fined $2.5B, charged with fraud conspiracy by DoJ in 737 MAX crashes",2021-01-07 16:22:00,-0.8402
+694,FB,"Facebook blocks Trump accounts indefinitely, a move lasting through inauguration",2021-01-07 10:59:00,-0.2263
+695,AAPL,Apple Car not expected to lead to Blackberry-like flameout for Tesla,2021-01-07 09:37:00,0.0
+696,TWTR,Twitter permanently bans President Trump's account- Parler faces App Store ban (updated),2021-01-08 18:27:00,-0.5574
+697,NCR,NCR -5.7% on report that it's Cardtronics' unnamed bidder,2021-01-08 16:17:00,0.0
+698,AAPL,"Apple pulls plug on Parler app, following Google- Amazon to stop hosting (updated)",2021-01-09 19:53:00,-0.128
+699,FB,"Despite the headline heat, social media companies still getting analyst love",2021-01-09 18:31:00,0.6369
+700,NVDA,Nio partners with Nvidia on next-gen electric vehicle tech,2021-01-09 09:49:00,0.0
+701,SP500,S&P 500 ends flat despite cyclical strength- yields reverse sharply,2021-01-12 16:05:00,-0.3875
+702,AAPL,"Tesla pulled an Apple move in self-driving, leaving Apple Car 'way behind' - ARK Investment",2021-01-12 15:31:00,0.0
+703,GM,General Motors' CES reveals include a flying Cadillac,2021-01-12 13:07:00,0.0
+704,SPY,House has enough votes to impeach Trump for second time (update),2021-01-13 16:33:00,0.0
+705,COMP.IND,Nasdaq leads the day's market rise- bond rally keeps running,2021-01-13 16:06:00,0.0
+706,TLT,Economic activity increases modestly in Fed's latest Beige Book report,2021-01-13 14:05:00,0.0
+707,BABA,Alibaba and Foxconn the latest to charge into the electric vehicle world,2021-01-13 13:33:00,0.0
+708,COMP.IND,Tech still in control as stock market makes modest gains- House impeachment debate starts,2021-01-13 13:01:00,0.34
+709,SP500,Nasdaq leads the major stock averages as chips see action,2021-01-13 09:33:00,0.0
+710,GM,General Motors rides CES appearance to big gain,2021-01-13 08:21:00,0.5267
+711,SPY,Biden unveils $1.9T stimulus plan,2021-01-14 20:30:00,0.0
+712,SP500,"Cyclical stocks rise on $1.9T stimulus hopes, but megacaps slip pushes S&P down",2021-01-14 16:06:00,0.2263
+713,XRT,Wayfair leads strong day for retail as January sales reads blaze strong,2021-01-14 13:53:00,0.765
+714,GM,Electric vehicle sector in focus as Democrat control in DC nears,2021-01-14 11:33:00,0.0
+715,DAL,Airline stocks gain after Delta hints at 'cash burn positive' spring,2021-01-14 10:09:00,0.7906
+716,ACIA,Acacia Communications soars after Cisco agrees to new deal at $115/share,2021-01-14 09:16:00,0.2023
+717,CZR,Caesars and Boyd headline bullish call by KeyBanc on casinos,2021-01-14 07:00:00,0.0
+718,COMP.IND,Nasdaq snaps 4-week win streak- S&P 500 also ends week down,2021-01-15 16:02:00,0.5859
+719,T,FCC's 5G spectrum auction wraps with record $80.9B in bids,2021-01-15 14:43:00,0.0
+720,SONY,"Pandemic, new consoles push videogame sales to new December record $7.7B",2021-01-15 14:13:00,0.0
+721,SPOT,Spotify now -6.6% amid report Apple considers a podcast subscription service,2021-01-15 12:37:00,0.0
+722,XOM,SEC probes Exxon over Permian Basin asset valuation - WSJ,2021-01-15 08:41:00,0.3612
+723,TSLA,Tesla forecast to deliver one million cars in 2022,2021-01-15 07:15:00,0.0
+724,TSM,TSMC plan for up to $28B in capital spending comes as chip industry frets over capacity,2021-01-15 01:01:00,0.0
+725,TTD,Programmatic ads on connected TVs seen growing to $8.7B this year,2021-01-16 18:31:00,0.1779
+726,PENN,The eyes of Texas are on sports betting,2021-01-16 10:28:00,0.0
+727,STLA,Meet Stellantis: The world's fourth largest automaker,2021-01-16 08:58:00,0.0
+728,FB,Mobile app analysis finds downloads rose 7% in 2020- app store spending up 20% to $143B,2021-01-17 11:01:00,0.0
+729,NFLX,"Netflix call: Streamer sees strong retention, and buyback intentions (updated)",2021-01-19 18:24:00,0.5106
+730,RIVN,Rivian raises more funds as valuation approaches $28B,2021-01-19 11:10:00,0.0
+731,MSFT,Microsoft a new investor and partner with General Motors' Cruise,2021-01-19 09:17:00,0.0
+732,CMG,Goldman Sachs warms up to restaurant stocks on recovery call,2021-01-19 08:34:00,0.2732
+733,BTC-USD,"Guggenheim's Minerd sees Bitcoin going back to $20,000",2021-01-20 16:29:00,0.0
+734,GM,General Motors tracks higher again as more analysts rave on Cruise-Microsoft upside,2021-01-20 07:28:00,0.0
+735,TRP,It's official: Biden kills Keystone XL permit,2021-01-20 07:20:00,-0.5423
+736,GOOG,Google threatens to disable search in Australia over proposed news-payment law,2021-01-21 21:11:00,-0.3818
+737,CMCSA,Tokyo Olympics in limbo as reports suggest it may be canceled,2021-01-21 19:02:00,0.0
+738,FB,Facebook's Trump suspension referred to independent Oversight Board,2021-01-21 12:36:00,0.0
+739,ARKX,Stocks expected to land in space ETFs include 'enabling' tech names,2021-01-21 10:56:00,0.0
+740,GM,General Motors gains as Morgan Stanley's Adam Jonas praises turnaround,2021-01-21 09:27:00,0.7003
+741,MMM,"COVID response: Biden to use Defense Production Act, executive actions",2021-01-21 05:53:00,0.128
+742,BTC-USD,Bitcoin briefly falls below $30K- set for worst weekly loss in months,2021-01-22 06:19:00,-0.7506
+743,PFE,Why is the U.S. vaccine rollout taking longer than expected?,2021-01-22 04:20:00,0.0
+744,COMP.IND,Nasdaq rallying on tech strength- analysts boost Apple targets,2021-01-25 09:42:00,0.7096
+745,AAPL,Nasdaq futures climb 1% ahead of big week for tech earnings,2021-01-25 05:09:00,0.0
+746,FXI,China surpasses U.S. as top destination for foreign investment,2021-01-25 03:50:00,0.2023
+747,WBA,Walgreens Boots taps Starbucks exec as new CEO,2021-01-26 17:48:00,0.0
+748,SPAK,Two SPAC-focused ETFs were not enough- another starts trading today,2021-01-26 12:15:00,0.0
+749,SP500,S&P 500 rises as cyclical stocks rebound,2021-01-26 09:52:00,0.0
+750,PEP,PepsiCo and Beyond Meat to make plant-based food and drinks together,2021-01-26 08:42:00,0.0
+751,GE,Cash flow shines at General Electric- shares rise 7% on turnaround,2021-01-26 07:42:00,0.296
+752,TSLA,Analysts start gearing up for Tesla earnings day,2021-01-26 07:23:00,0.0
+753,GME,Sizing up the Wall Street Bets phenomenon of retail trading,2021-01-26 05:20:00,0.0
+754,TSLA,Tesla peels off 5% as investors balance sky-high expectations,2021-01-27 19:33:00,0.0
+755,TSLA,"Tesla knocks out another profit, floats 50% deliveries growth target",2021-01-27 16:23:00,0.6705
+756,FB,"Facebook slips 3% despite solid beat, new $25B buyback as uncertainty remains",2021-01-27 16:15:00,-0.4299
+757,TR,Virgin Galactic and iRobot among stocks rallying in all-out assault on shorts,2021-01-27 09:55:00,-0.5859
+758,BA,Record annual loss weighs on Boeing stock- 737 MAX cleared to fly in Europe,2021-01-27 07:55:00,-0.2263
+759,GME,GameStop craziness extends to the trading remnants of Blockbuster Video,2021-01-27 07:18:00,0.4215
+760,GME,'Gamestonk!!' - Musk joins the retail bros' battle against Citron,2021-01-27 03:59:00,-0.4912
+761,GME,"A broker on why brokers shut down Reddit/WSB stock trading in GameStop, AMC and others",2021-01-28 16:27:00,0.0
+762,GM,GM's electric push to set off sparks across the electric vehicle sector,2021-01-28 13:34:00,0.0
+763,VIAC,"CBS sells out Super Bowl ads early, thanks to flurry of buying",2021-01-28 13:22:00,0.7783
+764,GM,General Motors to go all-electric by 2035,2021-01-28 11:17:00,0.0
+765,MCD,McDonald's falls after global comparable sales stay negative,2021-01-28 07:13:00,-0.5719
+766,SPY,Stocks stumble again amid fears of trading instability,2021-01-28 04:02:00,-0.4215
+767,SP500,S&P 500 has worst week in 3 months as volatile squeeze trades fray nerves,2021-01-29 16:05:00,-0.6705
+768,GME,"Robinhood's limit list up to 50, Starbucks joins GameStop at 1 (update)",2021-01-29 15:51:00,0.0
+769,GME,Seeking Alpha Catalyst Watch,2021-01-29 15:30:00,0.0
+770,SP500,Stock market plunge accelerates with more tech selling,2021-01-29 13:12:00,0.0
+771,GME,GameStop buyers take over and other highly-shorted consumer stocks rally,2021-01-29 11:13:00,0.0
+772,GM,General Motors a clear pick over Ford at Morgan Stanley,2021-01-29 08:55:00,0.3818
+773,LUV,Southwest Airlines rallies after Morgan Stanley calls it a top airline pick,2021-01-29 07:31:00,0.2023
+774,AAL,Reddit/WSB names resume rally premarket,2021-01-29 04:43:00,0.0
+775,HOOD,"Robinhood raises $1B, draws on bank credit lines, to reopen halted trades",2021-01-29 03:32:00,0.3818
+776,DIS,Analyst urges sale of Comcast Hulu stake that could be worth $15B,2021-01-30 18:31:00,0.2263
+777,AAPL,Apple seen having its best days ahead as digital transformation accelerates,2021-01-30 08:30:00,0.6369
+778,DKNG,Forget GameStop: Sports betting plays could have long-term value,2021-01-30 08:00:00,0.3612
+779,T,AT&T points to FCC changes as it bails out on utility private networking plans,2021-01-31 11:02:00,0.0
+780,GME,GameStop rally: Is there a case for market manipulation?,2021-01-31 09:09:00,-0.296

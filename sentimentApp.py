@@ -1,14 +1,18 @@
+from numpy.lib.arraysetops import unique
 import streamlit as st
 import pandas as pd
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+analyser = SentimentIntensityAnalyzer()
 
-
-stockName = st.text_input("Give me a stock name: ", "google")
+st.title("Sentiment Detection")
 
 df = pd.read_csv("eventsWithScores.txt") 
+uniqueTickers = df.ticker.unique() 
+uniqueTickers.sort()
 
-myReturns = df[df['event'].str.contains(stockName)]
+option = st.selectbox('Choose your ticker', uniqueTickers )
 
-if not myReturns.empty:
-    st.write("Score for your stock is " + str(myReturns["Score"].mean() ) )
-else: 
-    st.write("Stock not found")
+idx = df['ticker'].str.contains(option)
+myReturns = df.loc[ idx, ["datetime", "news","score"] ]
+
+st.write( myReturns )
